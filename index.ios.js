@@ -17,7 +17,7 @@ class ReactNativePractice extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to  Native!
+          Welcome to React Native!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
